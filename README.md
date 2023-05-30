@@ -12,6 +12,7 @@ Problem Statement
 The problem addressed in this report is the need for a more secure and reliable method of data authentication. Traditional methods of authentication, such as passwords and PINs, are vulnerable to hacking and fraud, leading to data breaches and security threats. To overcome these limitations, biometric authentication using iris and fingerprint data is a promising solution. However, there is a need to evaluate the accuracy, reliability, and security of such a system and to identify the challenges and limitations of implementing it. This aims to explore the potential of using iris and fingerprint biometrics for authentication purposes, examine the existing systems, and propose a solution for secure authentication. It also highlights the advantages of using multimodal biometrics for authentication and discusses the potential applications of this technology in various industries. By addressing the problem of data authentication, this aims to provide insights into the benefits and challenges of using iris and fingerprint biometrics to enhance security and protect sensitive data. The data that is to be stored is encrypted and secured with the help of biometric authentication. This project's objective is to create and authenticate the users data that is precise, inexpensive, and available to a variety of users.
 
 Activity Diagram image
+
 ![1](https://github.com/kalpithasrinivas/Biometric-Authentication/assets/103630524/c56218f0-4dc0-4274-8a56-e855edcbc92c)
 
 Result Dashboard Encryption process image
@@ -20,10 +21,14 @@ Result Dashboard Encryption process image
 Decryption Process image
 ![image](https://github.com/kalpithasrinivas/Biometric-Authentication/assets/103630524/4264d5eb-95a2-46cd-b7ad-0c10381c5e35)
 
+
+
 Algorithms
 
 Daugman - Iris Detection
+
 Convolution Neural Network - Fingerprint Detection
+
 Rubix Cube Algorithm - Encryption and Decryption
 
 CONCLUSION
